@@ -11,9 +11,6 @@ Features Of Our Project :
 5. QR CODE ENCRYPT AND DECRYPT
 
 Project Managers : Hamdani Arif , S.Pd., M. Sc.
-
 Leader : Fakhri Fathurrahman Zain
-
 Partner : Jessica Felicia Christy Meliala
-
 Partner : Naila Junita Rahma
