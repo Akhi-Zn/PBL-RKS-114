@@ -1,9 +1,9 @@
 <?php
 // Konfigurasi database
-$servername = "mysql.railway.internal";
+$servername = "localhost";
 $username = "root";
-$password = "UGAzZouYjBGNNAjTqXKGHeJdyeONhQGz";
-$database = "railway";
+$password = "";
+$database = "loginSystem";
 
 // Membuat koneksi
 $conn = new mysqli($servername, $username, $password, $database);
