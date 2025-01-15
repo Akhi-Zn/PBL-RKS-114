@@ -2,7 +2,7 @@ const challenges = [
     {
       level: 1,
       title: "Caesar Cipher",
-      cipherText: "uhndbdvd nhdpdqdq vlehu!", // "rekayasa keamanan siber!"
+      cipherText: "uhndbdvd nhdpdqdq vlehu", // "rekayasa keamanan siber!"
       hint: "Gunakan pergeseran huruf (shift 3).",
       answer: "rekayasa keamanan siber",
     },
@@ -30,7 +30,7 @@ const challenges = [
     {
       level: 5,
       title: "Vigenère Cipher",
-      cipherText: "HJM NRQI KEPS RBCR.", // "PBL JAYA JAYA JAYA" dengan dengan key "siber"."
+      cipherText: "HJM NRQI KEPS RBCR", // "PBL JAYA JAYA JAYA" dengan dengan key "siber"."
       hint: "Gunakan kunci 'siber'.",
       answer: "PBL JAYA JAYA JAYA",
     }
